@@ -6,5 +6,5 @@ The app uses OpenAI API to generate a response to the user query.
 The app uses TTS to read the response back to the user in speech format.
 The app can handle any errors or exceptions during the process and provide appropriate error messages to the us.
 
-<b>Note: The app is developed using any Python libraries for speech recognition, text-to-speech, and OpenAI API integration.</b>
+<b>Note: The app is developed using any Python libraries for speech recognition, text-to-speech, and OpenAI API integration.</b> <br>
 <b>note: Change API/Engine if it not met your expectation.</b>
